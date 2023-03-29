@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(6, 70, 53);
+}
+
+.heading{
+    color: rgb(240, 187, 98);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+.awesome{
+    color: rgb(244, 238, 169);
+    font-size: 30px;
+
+    display: flex;           
+    justify-content: flex-start;  
+    align-items: center; 
+    padding-left: 50px;
+}
+#highlight{
+    color:rgb(240, 187, 98);
+    display: flex;           
+    justify-content: flex-start;  
+    align-items: center; 
+    padding-left: 85px;
+}
+#second{
+    color:rgb(81, 146, 89);
+    font-size: 30px;
+}
