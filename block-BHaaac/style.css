@@ -1,0 +1,21 @@
+
+body{
+    background-color: #C2B280;
+}
+
+.heading {
+    color:#6495ED;
+    font: verdana;
+    font-size: 42px;
+}
+
+.awesome{
+    color: #191970;
+    font-size: 24px;
+}
+
+#second{
+    color: green;
+    font-size: 30px;
+
+}
