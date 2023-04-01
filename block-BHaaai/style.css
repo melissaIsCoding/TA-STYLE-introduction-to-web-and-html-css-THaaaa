@@ -1,0 +1,69 @@
+body{
+    background-color: #00235B;
+}
+
+h1 {
+    color:#F55353;
+    font-family: 'Georgia', 'Arial Narrow', Arial, sans-serif;
+    font-size:40px;
+    text-align: center;
+    margin-bottom: 0.2em;
+}
+
+h5{
+    margin-top: .2em;
+    color: #F9F5EB; 
+    font-family:  Arial, sans-serif;
+    text-align: center;
+    margin-bottom: 2em;
+} 
+
+.Categories{
+    color: #FCD900;
+    font-size: 31px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0.5em;
+    
+}
+
+.Subheadings{
+    margin-top: .2em;
+    margin-bottom: 0.5em;
+    color: #E8F0F2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+
+.Points{
+    margin-top: .2em;
+    color:#F9F5EB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding-left: 30px;
+    
+}
+
+.SocialMedia{
+    background-color: #035397;
+    color:#F55353;
+    font-size: 24px;
+    text-align: center;  
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.SocialMedia a{
+    text-decoration: none;
+}
+.SocialMedia img{
+    width:40px;
+    height:36px;
+    padding-right: 10px;
+}
+.image {
+    text-align: center;
+}
+
+#section{
+    text-indent: 20px;
+}
